@@ -15,7 +15,7 @@
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // --- PIN IR ---
-const uint8_t IR_TX_PIN = 16;   // pakai driver transistor/MOSFET ke LED IR
+const uint8_t IR_TX_PIN = 16;   
 
 // --- Virtual Pin ---
 #define VP_POWER        V0
